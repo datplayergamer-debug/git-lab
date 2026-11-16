@@ -16,3 +16,12 @@
 - Git
 - GitHub
 - Visual Studio Code
+
+## Thành viên thực hiện
+
+Sinh viên: Nguyen Tien Dat
+
+## Kết quả thực hành
+
+Đã thực hành tạo repository, commit, push,
+branch và pull request bằng GitHub.
